@@ -1,0 +1,23 @@
+# MacOS
+.DS_Store
+
+# Data and generated arrays
+256_npy_imgs/
+256_npy_op/
+preprocess_op/
+output_3d_model/
+evaluation/
+checkpoint/
+
+# Python cache
+__pycache__/
+
+# Images and big artifacts
+*.png
+*.jpg
+*.jpeg
+*.npz
+*.npy
+
+# Misc
+*.pt
